@@ -1,0 +1,12 @@
+# Данные, создаваемые программой при работе
+*.db
+*.log
+*_meta.json
+
+# Python
+__pycache__/
+*.pyc
+
+# ОС
+.DS_Store
+Thumbs.db
